@@ -1,0 +1,6 @@
+pywin32
+PyQt6
+numpy
+opencv-python
+ultralytics
+pytesseract
